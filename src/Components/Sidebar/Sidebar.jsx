@@ -68,7 +68,14 @@ function Sidebar() {
             <img src={Modules} alt="DashboardIcon" height={32} width={32} />{" "}
             Modules
           </li>
-
+// Feedback option
+          <Link to="/feedback" style={{ textDecoration: "none" }}>
+            <li>
+              <img src={FeedbackIcon} alt="FeedbackIcon" height={32} width={32} />{" "}
+                Feedback
+            </li>
+          </Link>
+  
           <p className="spann">Setings</p>
           <li>
             <img src={Usersicon} alt="DashboardIcon" height={32} width={32} />{" "}
