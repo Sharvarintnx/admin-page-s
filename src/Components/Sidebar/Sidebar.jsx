@@ -15,6 +15,7 @@ import Dashboard from "../../assest/Nutanix-Logo-Charcoal-Gray-Digital.svg";
 import Dash from "../../assest/Dashboard.svg";
 import Usersicon from "../../assest/Person.svg";
 import Modules from "../../assest/Modules.svg";
+import FeedbackIcon from "../../assest/Modules.svg"
 import Schedule from "../../assest/Schedule.svg";
 import Setting from "../../assest/Settings.svg";
 import Profileset from "../../assest/Profile-settings.svg";
